@@ -1,14 +1,18 @@
 # ibm-excel-data-analysis-project-
-This project was created as part of the final assessment for the IBM “Analyzing Data with Excel” course on edX.
-It focuses on applying Excel for real-world business data analysis. Using a sales dataset, I performed data cleaning, created PivotTables, and built charts to explore sales performance.
+This project was completed as part of the IBM “Analyzing Data with Excel” course on edX.
+It involved analyzing a real-world sales dataset provided by the course using Microsoft Excel.
 
-The analysis covered total sales by product line, yearly and regional trends, and top customers contributing to revenue.
-Through this project, I practiced key data analytics skills such as data preparation, summarization, and visualization using Excel tools.
+I performed data cleaning and preparation by correcting formats, removing duplicates, and organizing the dataset for analysis.
+Using PivotTables and charts, I explored:
 
-Successfully completed the course and earned the IBM certificate on edX.
+Total sales by product line
 
-Key Insights
-Classic Cars and Vintage Cars were the most profitable product lines.
-Sales remained consistent across years, showing stable business performance.
-A few key customers and countries contributed a large portion of total revenue.
-Focusing on top-performing products and regions could improve future growth.
+Yearly and country-wise performance
+
+Top customers contributing to sales
+
+
+Finally, I summarized key insights and business conclusions based on patterns in sales performance.
+
+This project demonstrates my ability to use Excel for data cleaning, analysis, and visualization — essential skills in data analytics.
+Successfully completed and certified by IBM through edX.
